@@ -7,6 +7,8 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
 	
+	//adding for git push
+	//added another branch
 	
 	@FindBy (xpath="//*[@id='branding']//a[@id='welcome']")
 	private WebElement link;
