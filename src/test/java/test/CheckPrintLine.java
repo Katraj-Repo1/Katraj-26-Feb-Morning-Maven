@@ -7,6 +7,8 @@ public class CheckPrintLine {
 System.out.println("Hi");
 System.out.println("hi hello");
 System.out.println("");
+System.out.println("hi  ");
+
 	}
 
 }
